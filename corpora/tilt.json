@@ -1,0 +1,50 @@
+{
+    "MAYHEM": [
+        "an out of control rampage",
+        "a frantic chase",
+        "a dangerous animal (perhaps metaphorical) gets loose",
+        "magnificent self-destruction",
+        "cold-blooded score-settling",
+        "misdirected passion"
+    ],
+    "TRAGEDY": [
+        "death, out of the blue",
+        "somebody's life is changed forever in a bad way",
+        "pain, followed by confusion",
+        "death, right on time",
+        "confusion, followed by pain",
+        "death, after an unpleasant struggle"
+    ],
+    "INNOCENCE": [
+        "somebody is not so innocent after all",
+        "a neighbor wanders into the situation",
+        "the wrong guy gets busted",
+        "collateral damage",
+        "love rears its ugly head",
+        "a well-meaning stranger intervenes"
+    ],
+    "GUILT": [
+        "a visit from the (perhaps unofficial) authorities",
+        "betrayed by friends",
+        "somebody develops a conscience",
+        "greed leads to killing",
+        "someone panics",
+        "a showdown"
+    ],
+    "PARANOIA": [
+        "a stranger arrives to settle the score",
+        "what seems like dumb luck isn't - things are affot",
+        "two people cross paths and everything changes",
+        "a sudden reversal (of status, of fortune, of sympathy)",
+        "the thing you stole has been stolen",
+        "somebody is watching, waiting for their moment"
+    ],
+    "FAILURE": [
+        "a stupid plan, executed to perfection",
+        "something precious is on fire",
+        "a tiny mistake leads to ruin",
+        "a good plan comes unraveled",
+        "you thought it was taken care of but it wasn't",
+        "fear leads to a fateful decision"
+    ]
+}
