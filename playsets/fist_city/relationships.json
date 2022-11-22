@@ -1,0 +1,50 @@
+{
+    "FAMILY": [
+        "Divorced",
+        "Married to cement alliance between schools",
+        "Child and relative who took over for absent parent",
+        "Successful sibling, irresponsible sibling",
+        "In-laws",
+        "Parent of child who doesn’t know you’re their parent"
+    ],
+    "CRIME": [
+        "Corrupt neighborhood watch members",
+        "Paroled ex-convict and dishonorably discharged prison guard",
+        "Gang leader and traitor from the Scorpions",
+        "Pusher and addict",
+        "Uncertified holistic healer and license counterfeiter",
+        "Crafter and dealer of illegal martial arts equipment"
+    ],
+    "WORK": [
+        "Mall security",
+        "Small-time stunt double and fight choreographer",
+        "The only two members of a private military company",
+        "High school fencing and wrestling coaches",
+        "Biker bar bouncer and upscale nightclub door supervisor",
+        "Bureau of Alcohol, Tobacco, Firearms & Explosives desk jockeys"
+    ],
+    "RELIGION": [
+        "Cult leader and follower",
+        "Militant evangelist and holiday religionist",
+        "Partners in violent misinterpretation",
+        "“Reincarnated” religious luminary and handler",
+        "Prophets",
+        "Defrocked cleric and congregant who exposed their crimes"
+    ],
+    "TRAINING PARTNERS": [
+        "Teacher and live-in student",
+        "Partners in Death Touch fakery",
+        "Senior and junior student, one trying to seduce the other",
+        "Instructor and student who’s actually better than them",
+        "Rival stylists secretly collaborating on a new style",
+        "Injuriously aggressive instructor and lawyer"
+    ],
+    "TRAINING RIVALS": [
+        "Same nickname, different teachers",
+        "Second and third place at the last All-County Kumite",
+        "Enemy paintball team captains",
+        "Competing to inherit the dojo when emphysema kills Sensei",
+        "Practitioners of styles which are knockoffs of one another",
+        "Minor-promotion pro wrestling rivalry turned real"
+    ]
+}
