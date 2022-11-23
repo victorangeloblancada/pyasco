@@ -1,0 +1,50 @@
+{
+    "Headquarters": [
+        "R&D laboratory",
+        "Management offices",
+        "Employee restrooms",
+        "Employee lounge",
+        "Armory",
+        "Control room"
+    ],
+    "Clandestine Meeting Places": [
+        "Chinese restaurant",
+        "Back-room gambling den",
+        "Dirty warehouse by the docks",
+        "fancy socialite’s ball",
+        "Secluded airfield",
+        "Sleazy bar"
+    ],
+    "Exotic Locales": [
+        "Pirate island",
+        "science-fiction convention",
+        "Pacific island resort",
+        "Vatican",
+        "Canadian border check",
+        "Swiss ski resort"
+    ],
+    "Land, Air, or Sea": [
+        "Luxury air ship",
+        "Drug lord’s mega yacht",
+        "Speeding train",
+        "Cargo ship",
+        "Underwater Lab",
+        "Space station"
+    ],
+    "Hostile Work Environments": [
+        "nemesis’ HQ",
+        "Crocodile infested swamp",
+        "Russian torture chamber",
+        "set of a Reality T.V. show",
+        "sinking ship",
+        "jungle stronghold"
+    ],
+    "Home Sweet Home": [
+        "Penthouse apartment",
+        "Safe house",
+        "family farm",
+        "sprawling estate",
+        "Trailer in a small backwards town",
+        "cloning facility"
+    ]
+}

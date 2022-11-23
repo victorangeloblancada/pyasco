@@ -1,0 +1,50 @@
+{
+    "Dark Past": [
+        "Last two survivors of a Tontine",
+        "You and your parent’s former lover",
+        "Turncoats now working for the other side",
+        "Accidental assassination witnesses",
+        "Assassin and former target",
+        "Horribly maimed and the one responsible"
+    ],
+    "Romance": [
+        "Bitter split",
+        "Current spouses",
+        "Unbridled lust",
+        "One-time fling",
+        "One-sided or unrequited",
+        "Former lovers"
+    ],
+    "Dirty Secret": [
+        "Adulterer and the lover’s spouse",
+        "Sibling is a dirty Communist",
+        "I’m faking being a spy and someone knows",
+        "Serious drug habit and the enabler",
+        "Double agent and the fool.",
+        "Communist sympathizers"
+    ],
+    "Family": [
+        "Overbearing in-laws",
+        "Overly familiar cousins",
+        "Parent and child/stepchild with attachment issues",
+        "Long lost siblings",
+        "Black sheep uncle / aunt and easily influenced niece / nephew",
+        "Unrelated, but close as blood"
+    ],
+    "Rivalries": [
+        "Enemy agents at cross purposes",
+        "Both after the same corner office",
+        "Micromanaging supervisor and the one under them",
+        "Always stealing the others food from the fridge",
+        "Both after the same girl",
+        "Agents trying to outdo the other"
+    ],
+    "Work": [
+        "Radio controller and field agent",
+        "Valet and employer",
+        "Office worker and super spy",
+        "Management and problem employee",
+        "Grizzle vet and young pup",
+        "Agency broker and field agent"
+    ]
+}
